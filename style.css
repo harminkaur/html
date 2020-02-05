@@ -1,0 +1,227 @@
+h1
+{
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+h3
+{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h2
+{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+h4
+{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+body
+{
+    background-color: dimgray;
+    background-image: url("images/snow.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#Q1
+{
+    text-align: center;
+    background-image: url("images/toronto.jpg");
+    height: 300px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Q2
+{
+    text-align: center;
+    background-image: url("images/germany.jpg");
+    height: 300px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#Q3
+{
+    text-align: center;
+    background-image: url("images/london.jpg");
+    height: 338px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#Q4
+{
+    text-align: center;
+    background-image: url("images/australia.jpg");
+    height: 300px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#Q5
+{
+    text-align: center;
+    background-image: url("images/states.jpeg");
+    height: 333px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+    background-position: center;
+    color: black;
+}
+
+#Q6
+{
+    text-align: center;
+    background-image: url("images/italy.jpg");
+    height: 297px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#Q7
+{
+    text-align: center;
+    background-image: url("images/paris.jpg");
+    height: 297px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#Q8
+{
+    text-align: center;
+    background-image: url("images/newzealand.jpg");
+    height: 333px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#Q9
+{
+    text-align: center;
+    background-image: url("images/india.jpg");
+    height: 295px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#Q10
+{
+    text-align: center;
+    background-image: url("images/pakistan.jpg");
+    height: 295px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+{
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 65px;
+}
+
+#after_submit
+{
+    visibility: hidden;
+}
+
+#btn
+{
+    color:purple;
+    height: 40px;
+    width: 80px;
+    background-color: pink;
+}
+
+#checkanswers
+{
+    color: blueviolet;
+    background-color: aqua;
+    height: 40px;
+    width: 120px;
+}
+
+#foot
+{
+    padding-left:80px;
+    padding-right:80px;
+}
+
+#img
+{
+    height: 20px;
+    width: 20px;
+}
+
+#wrapper1
+{
+    text-align: left;
+}
+
+#button1
+{
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+}
+
+#back
+{
+    margin-left: 30px;
+}
+
+#feedback
+{
+    margin-right: 30px;
+    float: right;
+}
+
+#perfect
+{
+    display: none;
+    text-align: center;
+}
+
+#happy
+{
+    display: none;
+    text-align: center;
+}
+
+#unhappy
+{
+    display: none;
+    text-align: center;
+}
